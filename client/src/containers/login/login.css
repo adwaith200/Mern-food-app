@@ -1,0 +1,22 @@
+.logincontainer{
+    padding: 3rem;
+}
+
+.login{
+    width: 40%;
+    margin: 0 auto;
+}
+
+@media (max-width:850px)
+{
+    .login{
+        width: 80%;
+    }
+} 
+
+@media (max-width:550px)
+{
+    .login{
+        width: 100%;
+    }
+} 

@@ -1,0 +1,17 @@
+.rowcustom{
+    padding:1rem;
+}
+.rowfirst{
+    margin-top: 2rem;
+}
+.col{
+    margin-top: 1rem;
+}
+.img{
+    height: 100%;
+    width: 100%;
+}
+
+.orderbtn{
+    margin-bottom: 1rem;
+}
